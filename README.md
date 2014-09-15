@@ -1,4 +1,4 @@
 Mistake_Driven_Development
 ==========================
 
-Slide from my talk at Meet Magento Romania
+Slides from my talk Mistake Driven Development at Meet Magento Romania
